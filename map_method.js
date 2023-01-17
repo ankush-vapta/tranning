@@ -36,3 +36,4 @@ const colorData = [
     }
 ];
 // const colorDataMap = colorData.map((item) => console.log(item));
+
